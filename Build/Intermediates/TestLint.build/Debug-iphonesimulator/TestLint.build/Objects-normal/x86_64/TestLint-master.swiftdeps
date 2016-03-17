@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "b91bb96111034d669913773e93a09ca3"
+build_time: [511391427, 628000]
+inputs:
+  "/Users/woroninb/Documents/Moje/private/blog/Posts/Lint/TestLint/TestLint/AppDelegate.swift": [511110162, 0]
+  "/Users/woroninb/Documents/Moje/private/blog/Posts/Lint/TestLint/TestLint/ViewController.swift": [511110924, 0]

@@ -1,0 +1,220 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C8TestLint14ViewController"
+provides-member:
+- ["C8TestLint14ViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "manyParametersInFunction"
+- "veryNestedFunction"
+- "viewDidLoad"
+- "comma"
+depends-top-level:
+- !private "StringLiteralType"
+- "ViewController"
+- !private ">"
+- "UIViewController"
+- !private "print"
+- "Int"
+depends-member:
+- ["PSs9AnyObject", "comma"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "manyParametersInFunction"]
+- !private ["PSs9AnyObject", "print"]
+- ["PSs9AnyObject", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSs9AnyObject", "veryNestedFunction"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- ["PSs11CVarArgType", "comma"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "manyParametersInFunction"]
+- !private ["PSs11CVarArgType", "print"]
+- ["PSs11CVarArgType", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSs11CVarArgType", "veryNestedFunction"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["PSs23CustomStringConvertible", "comma"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "manyParametersInFunction"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- ["PSs23CustomStringConvertible", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSs23CustomStringConvertible", "veryNestedFunction"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- ["PSs9Equatable", "comma"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "manyParametersInFunction"]
+- !private ["PSs9Equatable", "print"]
+- ["PSs9Equatable", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSs9Equatable", "veryNestedFunction"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- ["PSs8Hashable", "comma"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "manyParametersInFunction"]
+- !private ["PSs8Hashable", "print"]
+- ["PSs8Hashable", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSs8Hashable", "veryNestedFunction"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "comma"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "manyParametersInFunction"]
+- !private ["PSo8NSCoding", "print"]
+- ["PSo8NSCoding", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo8NSCoding", "veryNestedFunction"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "comma"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "manyParametersInFunction"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- ["PSo26NSExtensionRequestHandling", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo26NSExtensionRequestHandling", "veryNestedFunction"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "comma"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "manyParametersInFunction"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["CSo8NSObject", "veryNestedFunction"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "comma"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "manyParametersInFunction"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo16NSObjectProtocol", "veryNestedFunction"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo21UIAppearanceContainer", "comma"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "manyParametersInFunction"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo21UIAppearanceContainer", "veryNestedFunction"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "comma"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "manyParametersInFunction"]
+- !private ["PSo18UIContentContainer", "print"]
+- ["PSo18UIContentContainer", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo18UIContentContainer", "veryNestedFunction"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "comma"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "manyParametersInFunction"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- ["PSo18UIFocusEnvironment", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo18UIFocusEnvironment", "veryNestedFunction"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "comma"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "manyParametersInFunction"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["CSo11UIResponder", "veryNestedFunction"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "comma"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "manyParametersInFunction"]
+- !private ["PSo16UIStateRestoring", "print"]
+- ["PSo16UIStateRestoring", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo16UIStateRestoring", "veryNestedFunction"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "comma"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "manyParametersInFunction"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["PSo18UITraitEnvironment", "veryNestedFunction"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "comma"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "manyParametersInFunction"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["CSo16UIViewController", "veryNestedFunction"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C8TestLint14ViewController", "Int"]
+- ["C8TestLint14ViewController", "comma"]
+- ["C8TestLint14ViewController", "deinit"]
+- ["C8TestLint14ViewController", "didReceiveMemoryWarning"]
+- ["C8TestLint14ViewController", "init"]
+- ["C8TestLint14ViewController", "manyParametersInFunction"]
+- !private ["C8TestLint14ViewController", "print"]
+- ["C8TestLint14ViewController", "veryLongFunctionNameWithoutSenseReturningJustNil"]
+- ["C8TestLint14ViewController", "veryNestedFunction"]
+- ["C8TestLint14ViewController", "viewDidLoad"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C8TestLint14ViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "87266ff5a1417896e6b6c2c222baa775"
